@@ -111,17 +111,3 @@ public class CheckBalance {
 		  System.out.println("Thanks for using the services");
 	 } 	 
 }
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
